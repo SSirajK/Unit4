@@ -1,0 +1,8 @@
+const add = require('./add.js')
+const sub = require('./subtract')
+const mul = require('./multiply')
+const divi = require('./divide')
+console.log("Addition: "+ add)
+console.log("subtraction: "+sub)
+console.log("Multiplication: "+mul)
+console.log("Division: "+divi)
